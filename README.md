@@ -1,2 +1,2 @@
-# Tensorflow_Practice
+# MachineLearning_Practice
 Directory for learning machine learning basics and tensorflow
